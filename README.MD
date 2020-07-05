@@ -1,6 +1,5 @@
-# 課程 API 串接
+# 第三週 Vue 起步走
 
-## HEX JS第二週作業
+## HEX JS 第三週主線任務 - 產品管理頁面
 
-- [API新增資料頁面](https://rockalen.github.io/js-training-week2/index.html)
-- [前台版面連結](https://rockalen.github.io/sixw6hwdist/product.html)
+- [前台版面連結](https://rockalen.github.io/js-training-week3/index.html)
